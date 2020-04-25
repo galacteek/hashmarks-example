@@ -1,0 +1,9 @@
+hashmarks:
+  - url: /ipfs/bafybeiez62qzqy3oz3v2d43kvwp3y35requsho23wqo7dwilnk55vb7eyu
+    title: Some title
+    description: Some description
+    datecreated: '2020-04-23T18:00:00-00:00'
+    category: articles/news
+    tags:
+      - '#dapp'
+      - '#ipfs'
